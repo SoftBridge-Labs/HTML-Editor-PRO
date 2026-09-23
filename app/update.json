@@ -1,10 +1,10 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Updates: What’s New 🚀",
-  "Description": "• Updated daily AI limits with improved token usage tracking for a clearer and more predictable AI experience.\n• Added the new Claude Haiku model for fast, efficient, and reliable AI code generation.\n• Improved AI coding performance and overall app experience.\n• Bug fixes and performance improvements for a smoother experience.",
+  "Title": "Security Update",
+  "Description": "New security improvements have been implemented server side, update the app to latest version for smoother expereince.",
   "MainTextButton": "Update",
   "Cancelable": false,
   "CancelButtonText": "Later",
   "DownloadLink": "https://play.google.com/store/apps/details?id=com.protecgames.htmleditorpro",
-  "Version": "16.2.0+158"
+  "Version": "16.2.1+159"
 }
