@@ -1,10 +1,10 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Security Update",
-  "Description": "New security improvements have been implemented server side, update the app to latest version for smoother expereince.",
+  "Title": "Free Web Hosting",
+  "Description": "Update your app to get free domain + hosting with refresh editor layout",
   "MainTextButton": "Update",
-  "Cancelable": false,
+  "Cancelable": true,
   "CancelButtonText": "Later",
   "DownloadLink": "https://play.google.com/store/apps/details?id=com.protecgames.htmleditorpro",
-  "Version": "16.2.1+159"
+  "Version": "16.3.2+161"
 }
