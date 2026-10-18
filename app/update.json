@@ -1,10 +1,10 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Free Web Hosting",
-  "Description": "Update your app to get free domain + hosting with refresh editor layout",
-  "MainTextButton": "Update",
+  "Title": "Code. Deploy. Win Swag! 📱💻",
+  "Description": "Ready to showcase what you can build on mobile? RSVP for our Luma hackathon event to claim your perks, build your app, and compete for top prizes.",
+  "MainTextButton": "RSVP Join",
   "Cancelable": true,
   "CancelButtonText": "Later",
-  "DownloadLink": "https://play.google.com/store/apps/details?id=com.protecgames.htmleditorpro",
-  "Version": "16.3.2+161"
+  "DownloadLink": "https://luma.com/xnfg1kjk",
+  "Version": "16.3.4+163-inapp"
 }
